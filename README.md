@@ -4,7 +4,7 @@ notamment la gestion des produits, des clients, des commandes, des paiements, et
 • Gestion des Produits : Création, affichage et mise à jour des informations produit, ainsi 
 que la gestion du stock après chaque commande. 
 
-• Gestion des Ventes aux Clients : Gestion des clients et des commandes, avec possibilité 
+• Gestion des Ventes aux Clients : Gestion des clients et des commandes, avec possibilité  
 de récupérer les informations des clients et de leurs commandes respectives. 
 
 • Module de Paiements : Gestion des paiements des commandes, avec mise à jour de 
